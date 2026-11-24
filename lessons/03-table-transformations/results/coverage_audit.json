@@ -1,0 +1,9 @@
+{
+  "decisions_rows": 6830,
+  "left_rows": 6830,
+  "left_only": 25,
+  "inner_rows": 6805,
+  "lost_by_inner": 25,
+  "rows_without_validate": 6855,
+  "extra_rows_without_validate": 25
+}
